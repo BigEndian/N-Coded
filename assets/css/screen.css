@@ -396,6 +396,14 @@ table.plain {
     display: inline;
 }
 
+.blog-title a {
+   color: #333;
+}
+
+.blog-title a:hover {
+   text-decoration: none;
+}
+
 .blog-title-wrap {
     padding: 1em 0;
     border-bottom: 1px solid #E5E5E5;
